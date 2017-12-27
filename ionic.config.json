@@ -1,0 +1,8 @@
+{
+  "name": "ecommerce",
+  "app_id": "961f639d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
