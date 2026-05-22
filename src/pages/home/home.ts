@@ -11,4 +11,9 @@ export class HomePage {
 
   }
 
+  login() {
+    console.log('Login button clicked');
+    // replace with real auth flow as needed
+  }
+
 }
